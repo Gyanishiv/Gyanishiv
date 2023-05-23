@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Gyanishiv
 - 👀 I’m interested in AR/VR development.
-- 🌱 I’m currently learning AR/VR/Web development.
+- 🌱 I’m currently learning JAVA/AR/VR/Web development.
 - 💞️ I’m looking to collaborate on AR/VR projects.
-- 📫 My email is shivsppawar@gmail.com
+- 📫 My email is (last time someone spammed it so no email)
 
 <!---
 Gyanishiv/Gyanishiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
